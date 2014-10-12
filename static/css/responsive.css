@@ -39,7 +39,7 @@ html, body {
 	line-height: 66px;
 	color: #FFFFFF;
 
-	background-color: #155CA4;
+	background-color: #2a36b1;
 }
 
 .header__logo {
@@ -132,7 +132,7 @@ html, body {
 		top: 0;
 		bottom: 0;
 
-		background-color: #155CA4;
+		background-color: #2a36b1;
 
 		-moz-transform: translateX(-250px);
 		-ms-transform: translateX(-250px);

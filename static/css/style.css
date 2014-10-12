@@ -37,6 +37,10 @@
 
 }
 
+/*
+ * See material design : http://www.google.com/design/spec/style/color.html#color-ui-color-palette
+ */
+
 h1 {
 	color: #263FB0;
 	text-decoration: underline;
@@ -51,7 +55,7 @@ h2 {
 }
 
 a {
-    color: #64AFFF;
+    color: ;
 }
 
 a:hover {
