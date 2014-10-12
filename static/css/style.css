@@ -38,9 +38,20 @@
 }
 
 h1 {
-	color: #263fb0;
+	color: #263FB0;
 	text-decoration: underline;
 	font-family: 'sansita_oneregular', Arial, serif;
+}
+
+h2 {
+    color: #64B4FF;
+    text-decoration: underline;
+    font-family: 'sansita_oneregular', Arial, serif;
+    font-size: 0.8rem;
+}
+
+a {
+    text-decoration: underline;
 }
 
 .header a {
