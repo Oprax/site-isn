@@ -51,7 +51,11 @@ h2 {
 }
 
 a {
-    text-decoration: underline;
+    color: #64AFFF;
+}
+
+a:hover {
+    color: #7191B1;
 }
 
 .header a {
