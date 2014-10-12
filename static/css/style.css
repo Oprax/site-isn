@@ -42,24 +42,25 @@
  */
 
 h1 {
-	color: #263FB0;
+	color: #2a36b1;
 	text-decoration: underline;
 	font-family: 'sansita_oneregular', Arial, serif;
 }
 
 h2 {
-    color: #263FB0;
+    color: #2a36b1;
     text-decoration: underline;
     font-family: 'sansita_oneregular', Arial, serif;
     font-size: 1rem;
 }
 
 a {
-    color: #3b50ce;
+    text-decoration: none;
+    color: #5677fc;
 }
 
 a:hover {
-    color: #5677fc;
+    color: #1a237e;
 }
 
 .header a {
