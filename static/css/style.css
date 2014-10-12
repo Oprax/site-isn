@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'sansita_oneregular';
+    src: url('fonts/sansitaone-webfont.eot');
+    src: url('fonts/sansitaone-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sansitaone-webfont.woff2') format('woff2'),
+         url('fonts/sansitaone-webfont.woff') format('woff'),
+         url('fonts/sansitaone-webfont.ttf') format('truetype'),
+         url('fonts/sansitaone-webfont.svg#sansita_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'oswaldbook';
+    src: url('fonts/oswald-webfont.eot');
+    src: url('fonts/oswald-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oswald-webfont.woff2') format('woff2'),
+         url('fonts/oswald-webfont.woff') format('woff'),
+         url('fonts/oswald-webfont.ttf') format('truetype'),
+         url('fonts/oswald-webfont.svg#oswaldbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'exoregular';
+    src: url('fonts/exo-regular-webfont.eot');
+    src: url('fonts/exo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/exo-regular-webfont.woff2') format('woff2'),
+         url('fonts/exo-regular-webfont.woff') format('woff'),
+         url('fonts/exo-regular-webfont.ttf') format('truetype'),
+         url('fonts/exo-regular-webfont.svg#exoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+	color: #263fb0;
+	text-decoration: underline;
+	font-family: 'sansita_oneregular', Arial, serif;
+}
+
+.header a {
+	font-family: 'oswaldbook', serif;
+    font-size: 1.2rem;
+}
+
+p {
+    font-family: 'exoregular', serif;
+    font-size: 1.25rem;
+}
