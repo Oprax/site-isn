@@ -1,5 +1,5 @@
 <?php
-$title = 'Curriculum vitae';
+$title = 'Curriculum vitae'; // For header
 include('includes/header.php');
 ?>
 					<h1>Curriculum vitae</h1>

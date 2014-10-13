@@ -1,5 +1,5 @@
 <?php
-$title = 'Projet';
+$title = 'Projet'; // For header
 include('includes/header.php');
 ?>
 
