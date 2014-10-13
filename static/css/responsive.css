@@ -13,6 +13,8 @@ html, body {
 .header a {
 	text-decoration: none;
 	color: inherit;
+	font-family: 'oswaldbook', serif;
+    font-size: 1.2rem;
 }
 
 .container {
