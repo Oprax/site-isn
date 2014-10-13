@@ -25,13 +25,13 @@
 }
 
 @font-face {
-    font-family: 'exoregular';
-    src: url('fonts/exo-regular-webfont.eot');
-    src: url('fonts/exo-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/exo-regular-webfont.woff2') format('woff2'),
-         url('fonts/exo-regular-webfont.woff') format('woff'),
-         url('fonts/exo-regular-webfont.ttf') format('truetype'),
-         url('fonts/exo-regular-webfont.svg#exoregular') format('svg');
+    font-family: 'robotoregular';
+    src: url('fonts/roboto-regular-webfont.eot');
+    src: url('fonts/roboto-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/roboto-regular-webfont.woff2') format('woff2'),
+         url('fonts/roboto-regular-webfont.woff') format('woff'),
+         url('fonts/roboto-regular-webfont.ttf') format('truetype'),
+         url('fonts/roboto-regular-webfont.svg#robotoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -67,6 +67,6 @@ a:hover {
 }
 
 p {
-    font-family: 'exoregular', serif;
+    font-family: 'robotoregular', serif;
     font-size: 1.25rem;
 }
