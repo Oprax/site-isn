@@ -3,7 +3,7 @@ site-isn
 
 [See here !](http://oprax.hol.es/isn/)
 
-**My WorkFlow :**
+**Workflow :**
 * [Sublime Text 2](http://www.sublimetext.com/) for editing files.
 * [Git and Github](https://github.com) for versioning.
 * [DPLOY](http://leanmeanfightingmachine.github.io/dploy/) for deploy on the web server.
