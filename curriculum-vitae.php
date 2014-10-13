@@ -6,7 +6,7 @@ include('includes/header.php');
 					
 					<h2>Diplôme :</h2>
 					<p>
-						- Titulaire depuis juillet 2012 du Brevet des Collèges avec la mention Bien.<br>
+						- Titulaire, depuis juillet 2012, du Brevet des Collèges avec la mention Bien.<br>
 						- Titulaire de l'ASSR (Attestation Scolaire de Sécurité Routière) de niveau 2 depuis mai 2012.
 					</p>
 
