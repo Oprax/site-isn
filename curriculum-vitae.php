@@ -11,7 +11,9 @@ include('includes/header.php');
 					</p>
 
 					<h2>Expérience :</h2>
-					<p>&Agrave; travailler pendant trois semaines, du 4 au 22 août 2014, en tant que ouvrier agricole à la <a href="http://lafermemaurer.com/">Ferme Maurer</a>.</p>
+					<p>
+						&Agrave; travailler pendant trois semaines, du 4 au 22 août 2014, en tant que ouvrier agricole à la <a href="http://lafermemaurer.com/">Ferme Maurer</a>.
+					</p>
 
 <?php
 include('includes/footer.php');
