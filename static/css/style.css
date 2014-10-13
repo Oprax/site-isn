@@ -41,6 +41,10 @@
  * See material design : http://www.google.com/design/spec/style/color.html#color-ui-color-palette
  */
 
+.site-container {
+    background-color: #e7e9fd;
+}
+
 h1 {
 	color: #2a36b1;
 	text-decoration: underline;
