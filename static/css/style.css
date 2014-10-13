@@ -1,16 +1,5 @@
-@font-face {
-    font-family: 'sansita_oneregular';
-    src: url('fonts/sansitaone-webfont.eot');
-    src: url('fonts/sansitaone-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/sansitaone-webfont.woff2') format('woff2'),
-         url('fonts/sansitaone-webfont.woff') format('woff'),
-         url('fonts/sansitaone-webfont.ttf') format('truetype'),
-         url('fonts/sansitaone-webfont.svg#sansita_oneregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
 
-}
-
+/* For header link */
 @font-face {
     font-family: 'oswaldbook';
     src: url('fonts/oswald-webfont.eot');
