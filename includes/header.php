@@ -10,15 +10,14 @@ if (empty($title)) {
 		<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
 		<title><? echo $title; ?> | ISN</title>
 		<link rel="icon" type="image/x-icon" href="static/img/icon_64.png" />
-		<!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="static/img/icon_64.png" /><![endif]-->
-		<link rel="stylesheet" type="text/css" href="static/css/style.css">
-		<link rel="stylesheet" type="text/css" href="static/css/responsive.css">
+		<link rel="stylesheet" type="text/css" href="static/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="static/css/responsive.css" />
 	</head>
 	<body>
 		<div class="site-pusher">
 			<header class="header">
 				<a id="header__icon" class="header__icon" href="#"></a>
-				<a class="header__logo" href="/isn"><img src="static/img/icon_64.png" alt="Logo"></a>
+				<a class="header__logo" href="/isn"><img src="static/img/icon_64.png" alt="Logo" /></a>
 
 				<nav class="menu">
 					<a href="index.php">Accueil</a>
