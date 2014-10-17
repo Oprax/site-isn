@@ -8,7 +8,7 @@ if (empty($title)) {
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
-		<title><? echo $title; ?> | ISN</title>
+		<title><?php echo $title; ?> | ISN</title>
 		<link rel="icon" type="image/x-icon" href="static/img/icon_64.png" />
 		<link rel="stylesheet" type="text/css" href="static/css/style.css" />
 		<link rel="stylesheet" type="text/css" href="static/css/responsive.css" />
