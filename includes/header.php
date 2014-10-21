@@ -17,7 +17,7 @@ if (empty($title)) {
 		<div class="site-pusher">
 			<header class="header">
 				<a id="header__icon" class="header__icon" href="#"></a>
-				<a class="header__logo" href="/isn"><img src="static/img/icon_64.png" alt="Logo" /></a>
+				<a class="header__logo" href="/isn"><img src="static/img/icon_256.png" width="64" height="64" alt="Logo" /></a>
 
 				<nav class="menu">
 					<a href="index.php">Accueil</a>
