@@ -70,11 +70,12 @@ html, body {
 {
 	.site-pusher {
 		height: 100%;
+		/*
 		transition-duration: 0.3s;
 		-moz-transition-duration: 0.3s;
 		-ms-transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
-
+		*/
 		-moz-transform: translateX(0px);
 		-ms-transform: translateX(0px);
 		-webkit-transform: translateX(0px);
@@ -135,16 +136,17 @@ html, body {
 		bottom: 0;
 
 		background-color: #2a36b1;
-
+		
 		-moz-transform: translateX(-250px);
 		-ms-transform: translateX(-250px);
 		-webkit-transform: translateX(-250px);
 		transform: translateX(-250px);
-
+		/*
 		transition-duration: 0.3s;
 		-moz-transition-duration: 0.3s;
 		-ms-transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
+		*/
 	}
 
 	.menu a {
@@ -160,11 +162,12 @@ html, body {
 		-ms-transform: translateX(250px);
 		-webkit-transform: translateX(250px);
 		transform: translateX(250px);
-		
+		/*
 		transition-duration: 0.3s;
 		-moz-transition-duration: 0.3s;
 		-ms-transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
+		*/
 	}
 
 	.with--sidebar .site-cache {
@@ -182,10 +185,11 @@ html, body {
 		-ms-transform: translateX(250px);
 		-webkit-transform: translateX(250px);
 		transform: translateX(250px);
-
+		/*
 		transition-duration: 0.3s;
 		-moz-transition-duration: 0.3s;
 		-ms-transition-duration: 0.3s;
 		-webkit-transition-duration: 0.3s;
+		*/
 	}
 }
