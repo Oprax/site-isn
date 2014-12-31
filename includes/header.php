@@ -8,7 +8,7 @@ if (empty($title)) {
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
-		<title><?php echo $title; ?> | ISN</title>
+		<title><?= $title; ?> | ISN</title>
 		<link rel="icon" type="image/x-icon" href="static/img/icon_64.png" />
 		<link rel="stylesheet" type="text/css" href="static/css/style.css" />
 		<link rel="stylesheet" type="text/css" href="static/css/responsive.css" />
@@ -21,8 +21,7 @@ if (empty($title)) {
 
 				<nav class="menu">
 					<a href="index.php">Accueil</a>
-					<a href="curriculum-vitae.php">Curriculum vitae</a>
-					<a href="projet.php">Projet</a>
+					<a href="paintux.php">Paintux</a>
 				</nav>
 			</header>
 
