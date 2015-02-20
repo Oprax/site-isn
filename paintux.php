@@ -10,8 +10,8 @@ include('includes/header.php');
 					<p>
 						Paintux est un logiciel de dessein destiné à GNU/linux. Il est programmer en <a href="https://www.python.org/">Python</a> et utilise <a href="http://www.pygtk.org/">PyGTK</a> et <a href="http://www.pygame.org/">Pygame</a> comme bibliothèque.
 						<br>
-						Ce projet est développer dans le cadre de l'ISN. Les principaux développeur sont <a href="http://yann-isn-marchal.olympe.in/cv.html">Yann Carlen</a> et <a href="/isn/index.php">Romain Muller</a>.<br>
-						Vous trouverez plus d'information sur les technologies utilisés <a href="http://yann-isn-marchal.olympe.in/paintux.html">ici</a>.
+						Ce projet est développer dans le cadre de l'ISN. Les principaux développeur sont <a href="http://yann-isn-marchal.hol.es/cv.html">Yann Carlen</a> et <a href="/isn/index.php">Romain Muller</a>.<br>
+						Vous trouverez plus d'information sur les technologies utilisés <a href="http://yann-isn-marchal.hol.es/paintux.html">ici</a>.
 					</p>
 
 					<h2>Chaine de développement :</h2>
