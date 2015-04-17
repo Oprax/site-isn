@@ -12,6 +12,7 @@ include('includes/header.php');
 						<br>
 						Ce projet est développer dans le cadre de l'ISN. Les principaux développeur sont <a href="http://yann-isn-marchal.hol.es/cv.html">Yann Carlen</a> et <a href="/isn/index.php">Romain Muller</a>.<br>
 						Vous trouverez plus d'information sur les technologies utilisés <a href="http://yann-isn-marchal.hol.es/paintux.html">ici</a>.
+						Vous pouvez trouver le <a href="https://github.com/Oprax/paintux">code source</a> et <a href="https://github.com/Oprax/paintux/archive/master.zip">télécharger</a> le projet.
 					</p>
 
 					<h2>Chaine de développement :</h2>
