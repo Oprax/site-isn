@@ -22,6 +22,7 @@ if (empty($title)) {
 				<nav class="menu">
 					<a href="index.php">Accueil</a>
 					<a href="paintux.php">Paintux</a>
+					<a href="carnet.php">Carnet de bord</a>
 				</nav>
 			</header>
 
